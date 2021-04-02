@@ -36,3 +36,7 @@ To stop the services run the following command:
 ```
 ./stop-services.sh
 ```
+
+### Screenshots
+![alt text](https://mortiesbaobao.s3-us-west-1.amazonaws.com/assignment10.1.png)
+![alt text](https://mortiesbaobao.s3-us-west-1.amazonaws.com/assignment10.2.png)
